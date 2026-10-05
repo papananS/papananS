@@ -29,7 +29,7 @@
 **Databases, DevOps & tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,docker,githubactions,git,postman,arduino,vscode" alt="Databases and tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,docker,githubactions,git,postman,arduino,vscode,tailwind,bootstrap,jquery" alt="Databases and tools" />
 </p>
 
 <p>
@@ -49,7 +49,7 @@
 | --- | --- |
 | **HRM System** | Personal project: HR management platform (web + PWA) built with .NET and Entity Framework, with an AI CV-screening module. |
 | **AI Artwork Review** | AI-driven label compliance checker built with ASP.NET Core 8 MVC, Entity Framework Core, SQL Server, SignalR and the Anthropic Claude API. |
-| **Health Care Management System** | Built at Buono Thailand with .NET Core Web API. |
+| **Health Care Management System** | In-house clinic system built at Buono Thailand with ASP.NET Core MVC (.NET 9), ASP.NET Web API, SQL Server (ADO.NET), Tailwind CSS and Chart.js dashboards; Excel import and reporting. |
 | **Power BI Analytics** | Modelled and visualised nationwide event attendance (225K participants) by region, category and gender. |
 | **IoT Temperature Monitoring** | Temperature and humidity monitoring for cold rooms — capstone project at Silpakorn University. |
 

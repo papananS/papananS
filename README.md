@@ -42,12 +42,10 @@
 
 | Project | Description |
 | --- | --- |
-| **HRM System** | Personal project — a human resource management system for employee records and HR workflows. |
-| **Production Person Control System** | Built at Buono Thailand — tracks and controls production staff assignments on the factory floor. |
-| **Health Care Management System** | Built at Buono Thailand — manages employee health care records and related processes. |
-
-### 📫 Contact
-
-- GitHub: [@papananS](https://github.com/papananS)
+| **HRM System** | HR management platform (web + PWA) built with .NET and Entity Framework, integrated with Microsoft Dynamics 365 via API, with an AI CV-screening module. |
+| **AI Artwork Review** | AI-driven label compliance checker built with ASP.NET Core 8 MVC, Entity Framework Core, SQL Server, SignalR and the Anthropic Claude API. |
+| **Health Care Management System** | Built at Buono Thailand with .NET Core Web API. |
+| **Power BI Analytics** | Modelled and visualised nationwide event attendance (225K participants) by region, category and gender. |
+| **IoT Temperature Monitoring** | Temperature and humidity monitoring for cold rooms — capstone project at Silpakorn University. |
 
 <p align="center"><i>Thanks for visiting! ✨</i></p>

@@ -11,7 +11,9 @@
 
 ### 🧑‍💻 About me
 
-- 💼 **Programmer** at **Buono Thailand Co., Ltd.** since June 2024 — building internal web systems end to end, from requirements and database design to deployment.
+- 💼 **Programmer** at **Buono Thailand Co., Ltd.** since June 2024 (2+ years) — building internal web systems end to end, from requirements analysis, BRD/FSD and database design to testing and deployment.
+- 🏭 Supporting **Microsoft Dynamics 365 F&O** in the frozen food industry: X++ and SSRS reports, plus API integrations with external services.
+- 🤖 Building AI tools and workflow automation with **n8n** and **Power Automate**.
 - 🎓 **B.Eng. in Electronics & Computer System Engineering**, Silpakorn University (2020–2024).
 - 🔍 Interested in **full stack development**, **system analysis**, and **workflow automation**.
 - ⚙️ I like turning manual, paper-based processes into simple, reliable software.
@@ -21,17 +23,20 @@
 **Languages & frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,cs,dotnet,python,fastapi,flask" alt="Languages and frameworks" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,cs,dotnet,python,fastapi,flask,c,cpp" alt="Languages and frameworks" />
 </p>
 
 **Databases, DevOps & tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,docker,githubactions,git,vscode" alt="Databases and tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,docker,githubactions,git,postman,arduino,vscode" alt="Databases and tools" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Dynamics%20365%20F%26O-X%2B%2B-0B53CE?style=for-the-badge" alt="Dynamics 365 F&amp;O (X++)" />
+  <img src="https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge" alt="SSRS" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logoColor=white" alt="Power Automate" />
   <img src="https://img.shields.io/badge/CI%2FCD-555555?style=for-the-badge" alt="CI/CD" />
@@ -42,7 +47,7 @@
 
 | Project | Description |
 | --- | --- |
-| **HRM System** | HR management platform (web + PWA) built with .NET and Entity Framework, integrated with Microsoft Dynamics 365 via API, with an AI CV-screening module. |
+| **HRM System** | Personal project: HR management platform (web + PWA) built with .NET and Entity Framework, with an AI CV-screening module. |
 | **AI Artwork Review** | AI-driven label compliance checker built with ASP.NET Core 8 MVC, Entity Framework Core, SQL Server, SignalR and the Anthropic Claude API. |
 | **Health Care Management System** | Built at Buono Thailand with .NET Core Web API. |
 | **Power BI Analytics** | Modelled and visualised nationwide event attendance (225K participants) by region, category and gender. |

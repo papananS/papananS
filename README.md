@@ -14,7 +14,7 @@
 - 💼 **Programmer** at **Buono Thailand Co., Ltd.** since June 2024 (2+ years) — building internal web systems end to end, from requirements analysis, BRD/FSD and database design to testing and deployment.
 - 🏭 Supporting **Microsoft Dynamics 365 F&O** in the frozen food industry: X++ and SSRS reports, plus API integrations with external services.
 - 🤖 Building AI tools and workflow automation with **n8n** and **Power Automate**.
-- 🎓 **B.Eng. in Electronics & Computer System Engineering**, Silpakorn University (2020–2024).
+- 🎓 **B.Eng. in Electronics & Computer System Engineering**, Silpakorn University — graduated 2024.
 - 🔍 Interested in **full stack development**, **system analysis**, and **workflow automation**.
 - ⚙️ I like turning manual, paper-based processes into simple, reliable software.
 
